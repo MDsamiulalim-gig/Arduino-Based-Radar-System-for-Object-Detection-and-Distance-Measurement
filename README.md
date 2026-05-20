@@ -1,0 +1,2 @@
+# Arduino-Based-Radar-System-for-Object-Detection-and-Distance-Measurement
+An innovative Arduino-powered radar system designed to detect nearby objects and measure their distance using ultrasonic sensors and servo motor rotation. The project visualizes real-time object movement and scanning data, simulating the functionality of an actual radar system for smart surveillance and obstacle detection applications.
